@@ -1,0 +1,269 @@
+rank,celebrity,seasons,pros,rating,raw,dances
+1,JoJo Siwa,S30,Jenna Johnson,1.061,0.957,12
+2,Sabrina Bryan,"S5, S15",Mark Ballas / Louis van Amstel,1.061,0.774,12
+3,Charli D'Amelio,S31,Mark Ballas,1.053,0.999,13
+4,Jordan Fisher,S25,Lindsay Arnold,1.044,1.05,15
+5,Mya,S9,Dmitry Chaplin,0.982,0.883,14
+6,Chandler Kinney,S33,Brandon Armstrong,0.946,0.889,13
+7,Meryl Davis,S18,Maks Chmerkovskiy / Val Chmerkovskiy,0.931,0.785,12
+8,Kristi Yamaguchi,S6,Mark Ballas,0.87,0.833,14
+9,Stacy Keibler,S2,Tony Dovolani,0.859,0.672,11
+10,Heather Morris,S24,Maks Chmerkovskiy / Alan Bersten,0.858,0.683,6
+11,Nastia Liukin,S20,Derek Hough / Sasha Farber,0.857,0.847,10
+12,Brooke Burke,S7,Derek Hough,0.85,0.981,14
+13,Riker Lynch,S20,Allison Holker,0.845,0.788,12
+14,Harry Shum Jr.,S35,Jenna Johnson,0.842,0.942,9
+15,Nicole Scherzinger,S10,Derek Hough,0.83,0.868,13
+16,Ally Brooke,S28,Sasha Farber,0.829,0.652,14
+17,Simone Biles,S24,Sasha Farber,0.82,0.659,11
+18,Amber Glenn,S35,Pasha Pashkov,0.812,0.646,9
+19,Laurie Hernandez,S23,Val Chmerkovskiy,0.804,0.801,13
+20,Juan Pablo Di Pace,S27,Cheryl Burke,0.801,0.901,10
+21,Mel B,S5,Maks Chmerkovskiy,0.796,0.585,15
+22,Brandy,S11,Maks Chmerkovskiy,0.79,0.666,9
+23,Corbin Bleu,S17,Karina Smirnoff,0.781,0.561,14
+24,Xochitl Gomez,S32,Val Chmerkovskiy,0.78,0.833,13
+25,Gilles Marini,"S8, S15",Cheryl Burke / Peta Murgatroyd,0.776,0.66,22
+26,Jenna Dewan,S35,Val Chmerkovskiy / Alan Bersten,0.77,0.797,9
+27,Evanna Lynch,S27,Keo Motsepe,0.746,0.392,12
+28,Milo Manheim,S27,Witney Carson,0.746,0.625,12
+29,Ezra Frech,S35,Daniella Karagach,0.745,0.578,9
+30,Whitney Leavitt,S34,Mark Ballas,0.742,0.756,11
+31,J. R. Martinez,S13,Karina Smirnoff,0.739,0.56,14
+32,Gabby Windey,S31,Val Chmerkovskiy / Alan Bersten,0.736,0.816,13
+33,Zendaya,S16,Val Chmerkovskiy,0.72,0.704,14
+34,Amanda Kloots,S30,Alan Bersten,0.718,0.667,12
+35,Ariana Madix,S32,Pasha Pashkov,0.699,0.618,13
+36,James Hinchcliffe,S23,Sharna Burgess / Jenna Johnson,0.687,0.625,13
+37,Alexandra Raisman,S16,Mark Ballas,0.685,0.565,13
+38,Joey Graziadei,S33,Jenna Johnson,0.681,0.626,13
+39,Alfonso Ribeiro,S19,Witney Carson / Cheryl Burke,0.681,0.694,14
+40,Lindsey Stirling,S25,Mark Ballas,0.674,0.658,15
+41,Charity Lawson,S32,Artem Chigvintsev / Ezra Sosa,0.673,0.571,13
+42,Nev Schulman,S29,Jenna Johnson,0.669,0.678,13
+43,Rashad Jennings,S24,Emma Slater,0.661,0.54,13
+44,Kaitlyn Bristowe,S29,Artem Chigvintsev,0.657,0.58,13
+45,Normani,S24,Val Chmerkovskiy,0.654,0.631,13
+46,Willow Shields,S20,Mark Ballas,0.654,0.597,7
+47,Paige VanZant,S22,Mark Ballas / Alan Bersten / Sasha Farber,0.644,0.576,12
+48,Hines Ward,S12,Kym Johnson,0.643,0.717,13
+49,Evan Lysacek,S10,Anna Trebunskaya,0.643,0.396,13
+50,Apolo Anton Ohno,"S4, S15",Julianne Hough / Karina Smirnoff,0.641,0.426,25
+51,Alexis Ren,S27,Alan Bersten,0.64,0.476,13
+52,Melissa Rycroft,"S8, S15",Tony Dovolani,0.636,0.39,27
+53,Jason Mraz,S32,Daniella Karagach,0.636,0.634,13
+54,Kellie Pickler,S16,Derek Hough,0.63,0.677,14
+55,Chelsea Kane,S12,Mark Ballas,0.629,0.508,13
+56,Bindi Irwin,S21,Derek Hough / Val Chmerkovskiy,0.611,0.655,14
+57,Laila Ali,S4,Maks Chmerkovskiy,0.605,0.442,15
+58,Charlie White,S18,Sharna Burgess / Peta Murgatroyd,0.6,0.443,10
+59,Melanie C,S30,Gleb Savchenko,0.592,0.441,6
+60,Rumer Willis,S20,Val Chmerkovskiy,0.59,0.616,12
+61,Amber Riley,S17,Derek Hough,0.584,0.628,14
+62,Robert Irwin,S34,Witney Carson,0.576,0.504,14
+63,Katherine Jenkins,S14,Mark Ballas,0.573,0.498,14
+64,Aaron Carter,S9,Karina Smirnoff,0.571,0.383,9
+65,Ricki Lake,S13,Derek Hough,0.564,0.675,13
+66,Nyle DiMarco,S22,Peta Murgatroyd / Sharna Burgess,0.563,0.346,12
+67,Drew Lachey,"S2, S15",Cheryl Burke / Anna Trebunskaya,0.557,0.451,14
+68,Jennifer Grey,S11,Derek Hough,0.557,0.676,13
+69,Johnny Weir,S29,Britt Stewart,0.551,0.367,11
+70,Roshon Fegan,S14,Chelsie Hightower,0.545,0.223,9
+71,Monique Coleman,S3,Louis van Amstel,0.538,0.179,10
+72,Mario Lopez,S3,Karina Smirnoff,0.536,0.355,15
+73,Joey Fatone,"S4, S15",Kym Johnson,0.531,0.456,17
+74,Jordan Chiles,S34,Ezra Sosa,0.52,0.25,14
+75,Alix Earle,S34,Val Chmerkovskiy,0.515,0.552,14
+76,Helio Castroneves,"S5, S15",Julianne Hough / Chelsie Hightower,0.514,0.407,18
+77,Shawn Johnson,"S8, S15",Mark Ballas / Derek Hough,0.51,0.418,27
+78,Janel Parrish,S19,Val Chmerkovskiy / Artem Chigvintsev,0.507,0.501,14
+79,Wanya Morris,S22,Lindsay Arnold / Witney Carson,0.498,0.524,10
+80,Nick Carter,S21,Sharna Burgess / Witney Carson,0.496,0.332,14
+81,Jodie Sweetin,S22,Keo Motsepe / Val Chmerkovskiy,0.495,0.185,8
+82,Lance Bass,S7,Lacey Schwimmer,0.49,0.193,14
+83,Carlos PenaVega,S21,Witney Carson / Lindsay Arnold,0.478,0.38,14
+84,Brant Daugherty,S17,Peta Murgatroyd,0.474,0.255,8
+85,Kyle Massey,S11,Lacey Schwimmer,0.473,0.156,14
+86,Erin Andrews,S10,Maks Chmerkovskiy,0.464,0.32,12
+87,Suni Lee,S30,Sasha Farber,0.454,0.212,11
+88,Mario,S6,Karina Smirnoff,0.452,0.232,10
+89,Wayne Brady,S31,Witney Carson,0.451,0.483,13
+90,Nancy Kerrigan,S24,Artem Chigvintsev,0.447,0.345,7
+91,James Van Der Beek,S28,Emma Slater,0.447,0.315,12
+92,Joey Lawrence,S3,Edyta Sliwinska,0.441,0.25,12
+93,Maura Higgins,S35,Mark Ballas,0.44,0.267,9
+94,Bethany Mota,S19,Derek Hough / Mark Ballas,0.44,0.462,14
+95,Hannah Brown,S28,Alan Bersten,0.431,0.239,14
+96,Sadie Robertson,S19,Mark Ballas / Derek Hough,0.426,0.347,14
+97,Amy Purdy,S18,Derek Hough / Mark Ballas,0.425,0.492,12
+98,Jason Taylor,S6,Edyta Sliwinska,0.424,0.269,14
+99,Romeo,S12,Chelsie Hightower,0.424,0.169,8
+100,Alexa PenaVega,S21,Mark Ballas / Derek Hough,0.421,0.322,10
+101,Stephen Nedoroscik,S33,Rylee Arnold,0.415,0.06,13
+102,Lil' Kim,S8,Derek Hough,0.414,0.456,10
+103,Toni Braxton,S7,Alec Mazo,0.41,0.261,6
+104,James Maslow,S18,Peta Murgatroyd / Cheryl Burke,0.409,0.179,12
+105,Olivia Jade,S30,Val Chmerkovskiy,0.407,0.424,9
+106,William Levy,S14,Cheryl Burke,0.404,0.359,14
+107,Justina Machado,S29,Sasha Farber,0.404,0.292,13
+108,Elizabeth Berkley Lauren,S17,Val Chmerkovskiy,0.4,0.448,10
+109,Kel Mitchell,S28,Witney Carson,0.399,0.371,14
+110,Heidi D'Amelio,S31,Artem Chigvintsev,0.396,0.221,9
+111,Rick Fox,S11,Cheryl Burke,0.392,0.545,6
+112,Lea Thompson,S19,Artem Chigvintsev / Val Chmerkovskiy,0.392,0.339,10
+113,Joanna Krupa,S9,Derek Hough / Maks Chmerkovskiy,0.371,0.369,12
+114,Terra Jole,S23,Sasha Farber,0.366,0.251,11
+115,Sailor Brinkley-Cook,S28,Val Chmerkovskiy,0.361,0.401,6
+116,Lele Pons,S32,Brandon Armstrong,0.345,0.222,7
+117,Maria Menounos,S14,Derek Hough,0.345,0.391,11
+118,Donald Driver,S14,Peta Murgatroyd,0.342,0.145,14
+119,Vanessa Lachey,S25,Maks Chmerkovskiy / Alan Bersten,0.34,0.168,8
+120,Melora Hardin,S30,Artem Chigvintsev,0.335,0.248,11
+121,Hayes Grier,S21,Emma Slater / Allison Holker,0.334,0.09,8
+122,Lisa Rinna,S2,Louis van Amstel,0.331,0.113,8
+123,Jacoby Jones,S16,Karina Smirnoff,0.329,0.116,14
+124,Jana Kramer,S23,Gleb Savchenko,0.318,0.102,13
+125,"Nicole ""Snooki"" Polizzi",S17,Sasha Farber,0.302,0.139,7
+126,John O'Hurley,S1,Charlotte Jorgensen,0.301,0.388,8
+127,DeMarcus Ware,S27,Lindsay Arnold,0.292,0.295,8
+128,Skai Jackson,S29,Alan Bersten,0.272,-0.054,11
+129,Lauren Alaina,S28,Gleb Savchenko,0.263,0.015,14
+130,Heather Mills,S4,Jonathan Roberts,0.24,0.169,6
+131,Chuck Wicks,S8,Julianne Hough,0.238,0.112,8
+132,Jordin Sparks,S31,Brandon Armstrong,0.238,0.047,8
+133,Mary Lou Retton,S27,Sasha Farber,0.224,0.061,8
+134,Danica McKellar,S18,Val Chmerkovskiy / Maks Chmerkovskiy,0.223,0.22,8
+135,Tamar Braxton,S21,Val Chmerkovskiy / Louis van Amstel,0.21,0.219,10
+136,Emmitt Smith,"S3, S15",Cheryl Burke,0.207,0.09,25
+137,Ginger Zee,S22,Val Chmerkovskiy / Mark Ballas,0.204,0.233,12
+138,Rob Kardashian,S13,Cheryl Burke,0.2,0.122,14
+139,Kate Flannery,S28,Pasha Pashkov,0.2,0.093,8
+140,Shangela,S31,Gleb Savchenko,0.199,0.088,13
+141,Andy Grammer,S21,Allison Holker / Sharna Burgess,0.189,0.018,9
+142,Warren Sapp,S7,Kym Johnson,0.185,0.181,14
+143,Jack Osbourne,S17,Cheryl Burke,0.179,0.113,14
+144,Frankie Muniz,S25,Witney Carson,0.177,0.084,15
+145,Calvin Johnson Jr.,S23,Lindsay Arnold,0.166,0.082,13
+146,Jenn Tran,S33,Sasha Farber,0.163,-0.039,7
+147,AJ McLean,S29,Cheryl Burke,0.162,0.049,9
+148,Jane Seymour,S5,Tony Dovolani,0.155,-0.068,8
+149,Mark Dacascos,S9,Lacey Schwimmer / Anna Demidova,0.143,0.092,7
+150,Jaleel White,S14,Kym Johnson,0.142,0.115,7
+151,Jimmie Allen,S30,Emma Slater,0.126,-0.107,9
+152,Donny Osmond,S9,Kym Johnson,0.123,0.151,14
+153,Daniel Durant,S31,Britt Stewart,0.121,-0.13,11
+154,Joey McIntyre,S1,Ashly DelGrosso,0.114,-0.191,6
+155,Victoria Arlen,S25,Val Chmerkovskiy,0.112,0.084,12
+156,Cristian de la Fuente,S6,Cheryl Burke,0.11,0.026,13
+157,Jen Affleck,S34,Jan Ravnik,0.107,-0.202,7
+158,Shannon Elizabeth,S6,Derek Hough,0.099,0.065,8
+159,Susan Lucci,S7,Tony Dovolani,0.096,-0.106,8
+160,Cameron Mathison,S5,Edyta Sliwinska,0.095,-0.097,10
+161,Danny Amendola,S33,Witney Carson,0.095,0.025,13
+162,Leah Remini,S17,Tony Dovolani,0.094,-0.219,12
+163,Sasha Pieterse,S25,Gleb Savchenko,0.09,-0.235,6
+164,Elaine Hendrix,S34,Alan Bersten,0.089,-0.095,14
+165,Julia Stiles,S35,Ezra Sosa,0.088,-0.159,8
+166,Jeannie Mai,S29,Brandon Armstrong,0.084,-0.074,7
+167,Kelly Osbourne,S9,Louis van Amstel,0.08,-0.247,14
+168,Ian Ziering,S4,Cheryl Burke,0.075,0.031,12
+169,Dylan Efron,S34,Daniella Karagach,0.073,-0.049,14
+170,Hope Solo,S13,Maks Chmerkovskiy,0.064,-0.189,11
+171,Cody Linley,S7,Julianne Hough / Edyta Sliwinska,0.053,-0.152,12
+172,Chris Jericho,S12,Cheryl Burke,0.042,0.063,6
+173,Jennie Garth,S5,Derek Hough,0.024,-0.005,12
+174,Jackson Olson,S35,Emma Slater,0.024,-0.189,7
+175,Melissa Joan Hart,S9,Mark Ballas,0.016,-0.211,6
+176,Kim Fields,S22,Sasha Farber / Keo Motsepe,0.014,-0.144,7
+177,Ilona Maher,S33,Alan Bersten,0.01,-0.249,13
+178,Kelly Monaco,"S1, S15",Alec Mazo / Val Chmerkovskiy,-0.004,-0.213,21
+179,Nikki Bella,S25,Artem Chigvintsev,-0.006,-0.224,8
+180,Ralph Macchio,S12,Karina Smirnoff,-0.013,-0.194,10
+181,Danielle Fishel,S34,Pasha Pashkov,-0.035,-0.274,8
+182,Louie Vito,S9,Chelsie Hightower,-0.047,-0.459,6
+183,Marissa Jaret Winokur,S6,Tony Dovolani,-0.048,-0.484,12
+184,Pamela Anderson,"S10, S15",Damian Whitewood / Tristan MacManus,-0.056,-0.306,7
+185,Jonathan Bennett,S19,Allison Holker / Peta Murgatroyd,-0.063,-0.327,6
+186,David Arquette,S13,Kym Johnson,-0.064,-0.121,7
+187,Alek Skarlatos,S21,Lindsay Arnold / Emma Slater,-0.065,-0.207,14
+188,Vernon Davis,S29,Peta Murgatroyd,-0.072,-0.335,6
+189,Marlee Matlin,S6,Fabian Sanchez,-0.072,-0.387,6
+190,Connor Wood,S35,Rylee Arnold,-0.084,-0.461,9
+191,Monica Aldama,S29,Val Chmerkovskiy,-0.086,-0.017,7
+192,Phaedra Parks,S33,Val Chmerkovskiy,-0.087,-0.15,6
+193,Kendra Wilkinson,S12,Louis van Amstel,-0.088,-0.497,7
+194,Joseph Baena,S31,Daniella Karagach / Alexis Warr,-0.091,-0.429,6
+195,Kurt Warner,S11,Anna Trebunskaya,-0.097,-0.334,7
+196,Maurice Greene,S7,Cheryl Burke,-0.098,-0.191,10
+197,Von Miller,S22,Witney Carson / Lindsay Arnold,-0.115,-0.314,7
+198,Niecy Nash,S10,Louis van Amstel,-0.124,-0.487,8
+199,Karamo Brown,S28,Jenna Johnson,-0.126,-0.229,7
+200,Antonio Brown,S22,Sharna Burgess / Karina Smirnoff,-0.128,-0.362,10
+201,Scott Hoying,S34,Rylee Arnold,-0.131,-0.575,6
+202,Chrishell Stause,S29,Gleb Savchenko,-0.151,-0.408,8
+203,Sean Lowe,S16,Peta Murgatroyd,-0.152,-0.47,9
+204,"Mike ""The Miz"" Mizanin",S30,Witney Carson,-0.153,-0.248,8
+205,Tatyana Ali,S35,Jan Ravnik,-0.168,-0.513,9
+206,David Alan Grier,S8,Kym Johnson,-0.173,-0.1,6
+207,Dwight Howard,S33,Daniella Karagach,-0.203,-0.352,9
+208,Nick Viall,S24,Peta Murgatroyd,-0.204,-0.492,7
+209,Amber Rose,S23,Maks Chmerkovskiy,-0.206,-0.63,6
+210,Iman Shumpert,S30,Daniella Karagach,-0.207,-0.394,12
+211,Trevor Donovan,S31,Emma Slater,-0.234,-0.484,11
+212,Marilu Henner,S23,Derek Hough,-0.235,-0.169,9
+213,Kenya Moore,S30,Brandon Armstrong,-0.238,-0.402,7
+214,Victor Ortiz,S16,Lindsay Arnold,-0.256,-0.522,6
+215,Tyler Cameron,S35,Sharna Burgess,-0.259,-0.508,7
+216,Marie Osmond,S5,Jonathan Roberts,-0.263,-0.452,14
+217,NeNe Leakes,S18,Tony Dovolani / Derek Hough,-0.268,-0.567,7
+218,Kirstie Alley,"S12, S15",Maks Chmerkovskiy,-0.268,-0.501,21
+219,Noah Galloway,S20,Sharna Burgess,-0.275,-0.464,12
+220,Ingo Rademacher,S16,Kym Johnson,-0.276,-0.362,11
+221,Jessie James Decker,S31,Alan Bersten,-0.283,-0.703,7
+222,George Hamilton,S2,Edyta Sliwinska,-0.301,-0.328,6
+223,Maureen McCormick,S23,Artem Chigvintsev,-0.311,-0.484,7
+224,Antonio Sabato Jr.,S19,Cheryl Burke / Allison Holker,-0.313,-0.477,7
+225,Jerry Rice,S2,Anna Trebunskaya,-0.318,-0.582,11
+226,Terrell Owens,S25,Cheryl Burke,-0.329,-0.412,10
+227,Nelly,S29,Daniella Karagach,-0.366,-0.54,13
+228,Drew Scott,S25,Emma Slater,-0.367,-0.595,14
+229,Nancy Grace,S13,Tristan MacManus,-0.377,-0.67,9
+230,John Schneider,S27,Emma Slater,-0.382,-0.573,8
+231,David Ross,S24,Lindsay Arnold,-0.386,-0.522,13
+232,Ty Murray,S8,Chelsie Hightower,-0.386,-0.679,12
+233,Chad Ochocinco,S10,Cheryl Burke,-0.388,-0.559,10
+234,Lawrence Taylor,S8,Edyta Sliwinska,-0.392,-0.59,7
+235,Barry Williams,S32,Peta Murgatroyd,-0.405,-0.535,8
+236,Candace Cameron Bure,S18,Mark Ballas / Tony Dovolani,-0.437,-0.668,12
+237,Cody Rigsby,S30,Cheryl Burke,-0.438,-0.568,12
+238,Patti LaBelle,S20,Artem Chigvintsev,-0.471,-0.651,6
+239,Mauricio Umansky,S32,Emma Slater,-0.477,-0.66,6
+240,Gladys Knight,S14,Tristan MacManus,-0.478,-0.822,6
+241,Bonner Bolton,S24,Sharna Burgess,-0.49,-0.767,9
+242,Melissa Gilbert,S14,Maks Chmerkovskiy,-0.503,-0.858,9
+243,Nick Lachey,S25,Peta Murgatroyd,-0.515,-0.913,7
+244,Robert Herjavec,S20,Kym Johnson,-0.518,-0.504,9
+245,Ryan Lochte,S23,Cheryl Burke,-0.52,-0.75,8
+246,Bobby Bones,S27,Sharna Burgess,-0.535,-0.736,12
+247,Chris Soules,S20,Witney Carson,-0.537,-0.77,9
+248,John Ratzenberger,S4,Edyta Sliwinska,-0.538,-0.719,8
+249,Michael Irvin,S9,Anna Demidova,-0.547,-0.938,7
+250,Andy Dick,S16,Sharna Burgess,-0.578,-0.821,7
+251,Alyson Hannigan,S32,Sasha Farber,-0.582,-0.859,13
+252,Harry Jowsey,S32,Rylee Arnold,-0.586,-1.078,9
+253,Steve-O,S8,Lacey Schwimmer,-0.592,-1.125,6
+254,Billy Ray Cyrus,S4,Karina Smirnoff,-0.594,-0.938,10
+255,Chaz Bono,S13,Lacey Schwimmer,-0.618,-1.039,6
+256,Doug Flutie,S22,Karina Smirnoff / Peta Murgatroyd,-0.667,-0.944,6
+257,Bristol Palin,"S11, S15",Mark Ballas,-0.677,-0.902,17
+258,Drew Carey,S18,Cheryl Burke / Witney Carson,-0.694,-0.82,6
+259,Tommy Chong,S19,Peta Murgatroyd / Emma Slater,-0.712,-0.883,12
+260,Bill Engvall,S17,Emma Slater,-0.746,-1.003,14
+261,Vinny Guadagnino,S31,Koko Iwasaki,-0.772,-1.242,9
+262,Michael Waltrip,S19,Emma Slater / Witney Carson,-0.836,-1.142,8
+263,Paula Deen,S21,Louis van Amstel / Mark Ballas,-0.889,-1.186,7
+264,Cloris Leachman,S7,Corky Ballas,-0.922,-1.172,7
+265,Joe Amabile,S27,Jenna Johnson,-1.049,-1.442,10
+266,Jerry Springer,S3,Kym Johnson,-1.06,-1.105,8
+267,Sean Spicer,S28,Lindsay Arnold / Jenna Johnson,-1.202,-1.468,10
+268,Andy Richter,S34,Emma Slater,-1.242,-1.613,9
